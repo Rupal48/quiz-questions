@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What does 'undefined' mean in JavaScript?",
+        "options": ["A variable that is declared but not assigned a value", "A variable that has been deleted", "A function without return value", "None of the above"],
+        "answer": "A variable that is declared but not assigned a value"
+    },
+    {
+        "question": "Which of the following is used to declare a constant in JavaScript?",
+        "options": ["let", "const", "var", "constant"],
+        "answer": "const"
+    },
+    {
+        "question": "What is the correct syntax for creating a function in JavaScript?",
+        "options": ["function myFunction(){}", "function = myFunction(){}", "def myFunction():{}", "function: myFunction(){}"],
+        "answer": "function myFunction(){}"
+    },
+    {
+        "question": "What is the result of the following expression: '5' + 5?",
+        "options": ["55", "10", "Error", "NaN"],
+        "answer": "55"
+    },
+    {
+        "question": "What is the purpose of the 'this' keyword in JavaScript?",
+        "options": ["Refers to the current function", "Refers to the object that owns the function", "Refers to the current document", "None of the above"],
+        "answer": "Refers to the object that owns the function"
+    },
+    {
+        "question": "Which method is used to remove the last element from an array in JavaScript?",
+        "options": ["pop()", "shift()", "remove()", "slice()"],
+        "answer": "pop()"
+    },
+    {
+        "question": "What will the following code return? '3' == 3",
+        "options": ["true", "false", "Error", "undefined"],
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is NOT a JavaScript data type?",
+        "options": ["String", "Boolean", "Object", "Character"],
+        "answer": "Character"
+    },
+    {
+        "question": "What is the correct way to write a JavaScript array?",
+        "options": ["var arr = [1, 2, 3]", "var arr = (1, 2, 3)", "var arr = {1, 2, 3}", "var arr = <1, 2, 3>"],
+        "answer": "var arr = [1, 2, 3]"
+    },
+    {
+        "question": "What does the '===' operator do in JavaScript?",
+        "options": ["Compares both value and type", "Compares only value", "Compares only type", "Assigns a value to a variable"],
+        "answer": "Compares both value and type"
+    }
+]
